@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "desafio-entregable-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon src/app.js",
+    "dev": "nodemon src/app.js --experimental-modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "nanoid": "^4.0.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

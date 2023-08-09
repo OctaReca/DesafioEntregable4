@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Pan",
+    "description": "Pan de campo",
+    "price": 50,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "PAN",
+    "stock": 100,
+    "category": "Comida",
+    "id": "zp"
+  },
+  {
+    "title": "Leche",
+    "description": "Leche descremada",
+    "price": 100,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "LECHE",
+    "stock": 100,
+    "category": "Comida",
+    "id": "Ct"
+  },
+  {
+    "title": "Carne",
+    "description": "Carne de vaca",
+    "price": 150,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "CARNE",
+    "stock": 100,
+    "category": "Comida",
+    "id": "7X"
+  },
+  {
+    "title": "Pollo",
+    "description": "Pollo entero",
+    "price": 120,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "POLLO",
+    "stock": 100,
+    "category": "Comida",
+    "id": "fu"
+  },
+  {
+    "title": "Huevo",
+    "description": "Huevo de gallina",
+    "price": 20,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "HUEVO",
+    "stock": 100,
+    "category": "Comida",
+    "id": "ap"
+  },
+  {
+    "title": "Banana",
+    "description": "Banana de Ecuador",
+    "price": 40,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "BANANA",
+    "stock": 100,
+    "category": "Comida",
+    "id": "DM"
+  },
+  {
+    "title": "Cerveza",
+    "description": "Cerveza rubia",
+    "price": 90,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "CERVEZA",
+    "stock": 100,
+    "category": "Comida",
+    "id": "_5"
+  },
+  {
+    "title": "Gaseosa",
+    "description": "Gaseosa de 2 litros",
+    "price": 170,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "GASEOSA2L",
+    "stock": 100,
+    "category": "Comida",
+    "id": "58"
+  },
+  {
+    "title": "Vino",
+    "description": "Vino tinto 750ml",
+    "price": 230,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "VINOTINTO750",
+    "stock": 100,
+    "category": "Comida",
+    "id": "SP"
+  },
+  {
+    "title": "Asado de tira",
+    "description": "Corte de carne de vaca",
+    "price": 300,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "ASADO",
+    "stock": 100,
+    "category": "Comida",
+    "id": "F9"
+  },
+  {
+    "title": "Salsa",
+    "description": "Salsa de tomate fresco",
+    "price": 70,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "salsa",
+    "stock": 100,
+    "category": "Comida",
+    "id": "ud"
+  },
+  {
+    "title": "Ravioles",
+    "description": "Ravioles de masa casera",
+    "price": 150,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "RAVIOLES",
+    "stock": 100,
+    "category": "Comida",
+    "id": "Kh"
+  },
+  {
+    "title": "Pescado",
+    "description": "Pescado de Mar",
+    "price": 165,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "PESCADO",
+    "stock": 100,
+    "category": "Comida",
+    "id": "d7"
+  },
+  {
+    "title": "Yogurt",
+    "description": "Yogurt de Durazno",
+    "price": 75,
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "code": "YOGURTD",
+    "stock": 100,
+    "category": "Comida",
+    "id": "Ip"
+  }
+]
